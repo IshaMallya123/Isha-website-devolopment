@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <style>
+    .box1{
+      background-color: red;
+      width:100px;
+      height:100px;
+      border:4px dashed pink;,
+      padding:50px;
+      margin:55px;
+      opacity:0.5
+    }
+    .circle{
+      height:100px;
+      width:100px;
+      background-color: aqua;
+      border-radius: 50%;
+      text-align:center;
+      border:5px solid green;
+    }
+    </style>
+  </head>
+  <body>
+      <div class="box1">
+        <h1> I am heading 1</h1>
+      </div>
+      <div class="circle">
+        <h1>i am circle</h1>
+      </div>
+  </body>
+</html>
